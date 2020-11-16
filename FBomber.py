@@ -4,18 +4,18 @@ import getpass
 import sys
 import time
                                                            
-print '                                                                    
-print '            _________________________________________________       
-print '            |                                               |       
-print '            |               Email Spammer Tool              |       
-print '            |                                               |       
-print '            |                  Version 1.0                  |       
-print '            =                                               =       
-print '            |               Modified by: Fako               |      
-print '            |                                               |       
-print '            |             !ENJOY BOMBING MAILS!             |       
-print '            |                                               |       
-print '            _________________________________________________       
+print '                                                                    '
+print '            _________________________________________________       '
+print '            |                                               |       '
+print '            |               Email Spammer Tool              |       '
+print '            |                                               |       '
+print '            |                  Version 1.0                  |       '
+print '            =                                               =       '
+print '            |               Modified by: Fako               |       '
+print '            |                                               |       '
+print '            |             !ENJOY BOMBING MAILS!             |       '
+print '            |                                               |       '
+print '            _________________________________________________       '
 
 
 print '                                           '
