@@ -3,8 +3,7 @@ import smtplib
 import getpass
 import sys
 import time
-
-print '                                                                    
+                                                           
 print '                                                                    
 print '            _________________________________________________       
 print '            |                                               |       
