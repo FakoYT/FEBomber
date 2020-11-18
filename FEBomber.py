@@ -18,12 +18,12 @@ print("            _________________________________________________       ")
 print("                                                                    ")
 print("                                                                    ")
 
-a = raw_input("Podaj Email: ")
-b = raw_input("Podaj Haslo: ")
-c = raw_input("Podaj Osobe: ")
-d = raw_input("Podaj Tytul: ")
-e = raw_input("Podaj Wiadomosc: ")
-ff = raw_input("Podaj ilosc emaili: ")
+a = raw_input("Type your E-mail: ")
+b = raw_input("Type password to your E-mail: ")
+c = raw_input("Type target: ")
+d = raw_input("Type name: ")
+e = raw_input("Type message: ")
+ff = raw_input("Type how many e-mails send: ")
 smtp_server = 'smtp.gmail.com'
 port = 587
 
